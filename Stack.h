@@ -19,7 +19,7 @@ class Stack : public LinkedList<T>{
 			// LinkedList와 달리 Stack은 current가 가리키는 곳을 삭제
                            
 
-			int i = 2;
+			int i = 1;
 
 			return true;
 			}
